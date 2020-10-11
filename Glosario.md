@@ -1,5 +1,5 @@
 # Glosario
-Glosario de algunos de los terminos, paquetes y algoritmos mas usados en el campo de ciencia de datos en orden alfabetico.
+Glosario de algunos de los términos, paquetes y algoritmos mas usados en el campo de ciencia de datos en orden alfabético.
 
 ## N:
 
